@@ -22,7 +22,7 @@ export default function Home() {
         <meta property="og:url" content={siteUrl} />
         <meta property="og:title" content="Skaira" />
         <meta property="og:description" content="Systems that think and coordinate, organizing themselves into teams that work while humans sleep. Building organizations that heal themselves and eliminate the coordination tax." />
-        <meta property="og:image" content={`${siteUrl}/background.png`} />
+        <meta property="og:image" content={`https://thesis-pi-three.vercel.app/background.png`} />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
         <meta property="og:site_name" content="Skaira" />
@@ -32,7 +32,7 @@ export default function Home() {
         <meta name="twitter:url" content={siteUrl} />
         <meta name="twitter:title" content="Skaira" />
         <meta name="twitter:description" content="Systems that think and coordinate, organizing themselves into teams that work while humans sleep. Building organizations that heal themselves and eliminate the coordination tax." />
-        <meta name="twitter:image" content={`${siteUrl}/background.png`} />
+        <meta name="twitter:image" content={`https://thesis-pi-three.vercel.app/background.png`} />
         <meta name="twitter:creator" content="@skaira_ai" />
         <meta name="twitter:site" content="@skaira_ai" />
         
